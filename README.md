@@ -222,7 +222,7 @@ Both models are biased toward predicting *real*, to very different degrees; Inte
 
 ## License notes
 
-This project combines images from four source datasets under different licenses — check `claude/dataset_licenses.md` in the project workspace (or re-verify directly) before reusing or redistributing images:
+This project combines images from four source datasets under different licenses :
 
 - **DGM4** — S-Lab License 1.0 (non-commercial only).
 - **SID-Set** — CC-BY-4.0 (attribution required, commercial use allowed); incorporates COCO / OpenImages V7 / Flickr30k content.
